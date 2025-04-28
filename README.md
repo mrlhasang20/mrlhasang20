@@ -1,5 +1,15 @@
+
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 # 💫 About Me:
-👋 Hi there! I'm Lhasang Lama and am currently pursuing my Bachelor's in Computer Engineering.<br>🚀 I'm passionate about Machine Learning (ML) and Artificial Intelligence (AI), and I'm actively building my skills in these fields.<br>💡 I'm focused on creating meaningful products and startups that solve real-world problems and bring value to people.<br>🌱 Always learning, building, and pushing boundaries — from tech enthusiast to aspiring AI engineer and future founder.
+
+###
+
+<p align="left">👋 Hi there! I'm Lhasang Lama and am currently pursuing my Bachelor's in Computer Engineering.<br>🚀 I'm passionate about ML, AI, and startups. <br>💡 I'm focused on creating meaningful products that solve real-world problems and bring value to people.🌱 Always learning, building, and pushing boundaries from tech enthusiast to aspiring AI engineer and future founder.</p>
+
+###
 
 
 ## 🌐 Socials:
@@ -12,10 +22,20 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=mrlhasang20&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrlhasang20&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=mrlhasang20&icon=0&color=0)](https://visitcount.itsvg.in)
+###
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
