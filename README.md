@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm currently pursuing my Bachelor's in Computer Engineering.<br>🚀 I'm passionate about Machine Learning (ML) and Artificial Intelligence (AI), and I'm actively building my skills in these fields.<br>💡 I'm focused on creating meaningful products and startups that solve real-world problems and bring value to people.<br>🌱 Always learning, building, and pushing boundaries — from tech enthusiast to aspiring AI engineer and future founder.
+👋 Hi there! I'm Lhasang Lama and am currently pursuing my Bachelor's in Computer Engineering.<br>🚀 I'm passionate about Machine Learning (ML) and Artificial Intelligence (AI), and I'm actively building my skills in these fields.<br>💡 I'm focused on creating meaningful products and startups that solve real-world problems and bring value to people.<br>🌱 Always learning, building, and pushing boundaries — from tech enthusiast to aspiring AI engineer and future founder.
 
 
 ## 🌐 Socials:
