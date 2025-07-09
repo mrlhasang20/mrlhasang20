@@ -6,7 +6,6 @@
 
 
 
-
 ###
 
 <p align="left">👋 Hi there! I'm Lhasang Lama and am currently pursuing my Bachelor's in Computer Engineering.<br>🚀 I'm passionate about ML, AI, and startups. <br>💡 I'm focused on creating meaningful products that solve real-world problems and bring value to people.🌱 Always learning, building, and pushing boundaries from tech enthusiast to aspiring AI engineer and future founder.</p>
